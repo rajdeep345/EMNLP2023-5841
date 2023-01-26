@@ -1,9 +1,8 @@
-# ACL2023-5257
-# CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction
+## CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction
 
 ACL 2023 Anonymous Submission For Long Paper ID: 5257
 
-## Supervised Contrastive Pre-Training
+## Supervised Contrastive Learning (SCL)-based Pre-Training
 
 To pretrain the model and save the chekpoints of the pretrained models after certain epochs use:
 
