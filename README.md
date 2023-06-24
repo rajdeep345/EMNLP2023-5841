@@ -1,6 +1,6 @@
 ## CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction
 
-ACL 2023 Anonymous Submission For Long Paper ID: 5257
+EMNLP 2023 Anonymous Submission For Long Paper ID: 5841
 
 ## Supervised Contrastive Learning (SCL)-based Pre-Training
 
